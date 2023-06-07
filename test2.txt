@@ -3,3 +3,5 @@ Bu menim ikinci tapsirigimdir
 ikinci tapsirigin 2ci commiti ve sonra 4cu commiti
 
 ikinci tapsirigin 3cu commiti
+
+bu da son commit
